@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DishonoredDev
 - 👀 I’m interested in .NET/C#/JS/HTML/CSS
-- 🌱 I’m currently learning alot of things
-- 💞️ I’m looking to collaborate on also alot of things
+- 🌱 I’m currently learning about webdevelopment
+- 💞️ I’m looking to collaborate on whatever is interesting
 - 📫 How to reach me; send me a message...
 
 <!---
